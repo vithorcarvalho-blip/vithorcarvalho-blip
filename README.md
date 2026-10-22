@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">👋 Olá, eu sou o Vithor Carvalho</h1>
+  <h1 align="center"> Olá, eu sou o Vithor Carvalho</h1>
   <p align="center"><strong>Desenvolvedor Back-End</strong> | Estudante de Análise e Desenvolvimento de Sistemas</p>
   
   <p align="center">
@@ -35,7 +35,7 @@
 
 ---
 
-### 🏷️ Tech Stack (Badges)
+###  Tech Stack (Badges)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
@@ -48,15 +48,15 @@
 
 ---
 
-### 🤝 Soft Skills & Abordagem de Trabalho
+###  Soft Skills & Abordagem de Trabalho
 
-* 🔍 **Resolução Analítica de Problemas:** Foco em identificar gargalos, criar rotinas eficientes e traduzir desafios operacionais em código.
-* 🗣️ **Comunicação Intersetorial:** Facilidade para transitar entre necessidades de negócio/operações e a implementação técnica.
-* 🔄 **Melhoria Contínua & Aprendizado:** Dedicação constante ao estudo de arquitetura de software, novos algoritmos e boas práticas de desenvolvimento.
+*  **Resolução Analítica de Problemas:** Foco em identificar gargalos, criar rotinas eficientes e traduzir desafios operacionais em código.
+*  **Comunicação Intersetorial:** Facilidade para transitar entre necessidades de negócio/operações e a implementação técnica.
+*  **Melhoria Contínua & Aprendizado:** Dedicação constante ao estudo de arquitetura de software, novos algoritmos e boas práticas de desenvolvimento.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=vithorcarvalho-blip&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
